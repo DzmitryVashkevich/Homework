@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffe5;
+    padding: 10px;
+    padding-left: 450px;
+    padding-top: 40px;
+}
+
+.Text {
+    border-bottom: solid 5px #bb2632;
+    border-left: solid 5px #ff9aa29a;
+    background-color: #ddecf6;
+    color: #f8818a;
+    width: 45%;
+    padding: 10px;
+}
+
+.img {
+    border: double 10px #FF9AA2;
+    padding: 0px;
+}
